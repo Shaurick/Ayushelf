@@ -49,3 +49,23 @@ a {
     font-weight: 600;
     text-decoration: underline;
 }
+
+.imagesec {
+    padding-left: 100px;
+    position: relative;
+}
+
+.price {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.qar {
+    width: 180px;
+    margin-right: 40px;
+}
+
+.tt {
+    display: inline-block;
+}
